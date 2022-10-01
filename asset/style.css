@@ -48,7 +48,7 @@ body {
     width: 60%;
     height:50%;
     background-color: #fff;
-    display: block;
+    display: none;
     overflow: hidden;
 }
 /* notification */
